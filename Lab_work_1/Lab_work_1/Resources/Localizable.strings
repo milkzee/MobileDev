@@ -1,0 +1,6 @@
+"login_email" = "E-mail";
+"login_password" = "Пароль";
+"login_button" = "Войти";
+"welcome_message" = "Добро пожаловать, %@!";
+"error_message" = "Ошибка авторизации.";
+"back_button" = "Назад";
